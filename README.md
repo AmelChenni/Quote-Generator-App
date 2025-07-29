@@ -35,4 +35,6 @@ This project was developed as part of the course "**إنشاء 50 تطبيق ع�
 ## 📷 Preview
 ![Preview Screenshot](appScreenshot.png)
 
+![Preview Screenshot](appScreenshotapp2.png)
+
 
